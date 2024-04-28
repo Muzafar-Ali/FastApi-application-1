@@ -1,0 +1,10 @@
+# Poetry
+.venv
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyc
